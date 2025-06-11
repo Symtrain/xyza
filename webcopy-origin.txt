@@ -1,0 +1,424 @@
+Uri: https://22131466.fs1.hubspotusercontent-na1.net/hub/22131466/hubfs/LOGO_blue_green-removebg-preview (4)-1.jpg?height=120&name=LOGO_blue_green-removebg-preview (4)-1.jpg
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hub\22131466\hubfs\LOGO_blue_green-removebg-preview (4)-1.jpg
+Content Type: image/jpeg
+
+Uri: https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1748976727201/template__support-form.min.css
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\7052064\hub_generated\template_assets\DEFAULT_ASSET\1748976727201\template__support-form.min.css
+Content Type: text/css
+
+Uri: https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1748976728503/template_kb-search.min.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\7052064\hub_generated\template_assets\DEFAULT_ASSET\1748976728503\template_kb-search.min.js
+Content Type: application/javascript
+
+Uri: https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1748976729325/template_kbdom.min.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\7052064\hub_generated\template_assets\DEFAULT_ASSET\1748976729325\template_kbdom.min.js
+Content Type: application/javascript
+
+Uri: https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1748976729918/template_purify.min.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\7052064\hub_generated\template_assets\DEFAULT_ASSET\1748976729918\template_purify.min.js
+Content Type: application/javascript
+
+Uri: https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1748976730236/template_main.css
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\7052064\hub_generated\template_assets\DEFAULT_ASSET\1748976730236\template_main.css
+Content Type: text/css
+
+Uri: https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1748976731708/template_smooth-anchors-scrolling.min.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\7052064\hub_generated\template_assets\DEFAULT_ASSET\1748976731708\template_smooth-anchors-scrolling.min.js
+Content Type: application/javascript
+
+Uri: https://7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1748976732247/template_sticky-header.min.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\7052064\hub_generated\template_assets\DEFAULT_ASSET\1748976732247\template_sticky-header.min.js
+Content Type: application/javascript
+
+Uri: https://cdn2.hubspot.net/hubfs/1932631/next_icon.jpg
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\1932631\next_icon.jpg
+Content Type: image/jpeg
+
+Uri: https://help.symtrain.com/hs/hsstatic/content-cwv-embed/static-1.1293/embed.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hs\hsstatic\content-cwv-embed\static-1.1293\embed.js
+Content Type: application/javascript
+
+Uri: https://help.symtrain.com/hs/hsstatic/ContentIcons/static-1.198/fontawesome/5.0.10/css/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hs\hsstatic\ContentIcons\static-1.198\fontawesome\5.0.10\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://help.symtrain.com/hs/hsstatic/HubspotToolsMenu/static-1.432/js/index.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hs\hsstatic\HubspotToolsMenu\static-1.432\js\index.js
+Content Type: application/javascript
+
+Uri: https://help.symtrain.com/hs/scriptloader/22131466.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hs\scriptloader\22131466.js
+Content Type: application/javascript
+
+Uri: https://help.symtrain.com/hubfs/Artboard 2-Oct-25-2024-04-12-56-4847-PM.png
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\Artboard 2-Oct-25-2024-04-12-56-4847-PM.png
+Content Type: image/png
+
+Uri: https://help.symtrain.com/hubfs/coach sym-1.png
+File Name: C:\Downloaded Web Sites\help.symtrain.com\hubfs\coach sym-1.png
+Content Type: image/png
+
+Uri: https://help.symtrain.com/knowledge
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/accessibility
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\accessibility.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/adding-script-lines-to-screenshots-in-a-visual-sym
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\adding-script-lines-to-screenshots-in-a-visual-sym.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/ai-generate-script
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\ai-generate-script.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/alternative-words
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\alternative-words.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/assessment
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\assessment.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/assigning-a-training-plan
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\assigning-a-training-plan.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/assigning-syms-and-modules
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\assigning-syms-and-modules.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/assignment
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\assignment.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/audio-sym-creation
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\audio-sym-creation.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/beginner-intermediate-and-advanced-syms
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\beginner-intermediate-and-advanced-syms.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/benchmarking
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\benchmarking.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/browsers
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\browsers.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/chat-sym-creation
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\chat-sym-creation.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/cloning-a-sym
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\cloning-a-sym.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/coaching
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\coaching.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/coaching-syms
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\coaching-syms.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/creating-a-module
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\creating-a-module.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/deactivating-users
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\deactivating-users.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/deep-linking
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\deep-linking.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/delete-user
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\delete-user.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/edit-sym-detail
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\edit-sym-detail.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/editing-syms-and-sym-versioning
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\editing-syms-and-sym-versioning.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/exercises
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\exercises.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/exporting
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\exporting.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/feedback
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\feedback.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/hot-spots
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\hot-spots.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/improve-sentiment-scores
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\improve-sentiment-scores.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/integrations
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\integrations.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/keywords
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\keywords.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/labels
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\labels.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/module-results-report
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\module-results-report.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/modules
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\modules.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/onboarding
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\onboarding.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/org-admin-dashboard
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\org-admin-dashboard.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/overall-stats
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\overall-stats.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/overview-video
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\overview-video.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/playback
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\playback.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/playback-and-scoring
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\playback-and-scoring.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/practice-and-test
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\practice-and-test.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/preview-screen-for-visual-syms
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\preview-screen-for-visual-syms.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/publishing-a-sym
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\publishing-a-sym.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/random-branching
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\random-branching.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/record-convo
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\record-convo.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/replace-image-for-visual-syms
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\replace-image-for-visual-syms.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/reporting
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\reporting.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/reports
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\reports.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/reset-password
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\reset-password.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/roles
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\roles.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/scoring
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\scoring.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/search
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\search.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sentiment-score
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sentiment-score.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sequncing-and-multi-hot-spot
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sequncing-and-multi-hot-spot.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/support
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\support.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-accuracy-score
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-accuracy-score.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-action-options
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-action-options.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-creation
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-creation.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-length
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-length.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-management
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-management.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-report
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-report.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-results-report
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-results-report.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-score
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-score.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/sym-types
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\sym-types.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/syms
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\syms.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/symtrain-basics
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\symtrain-basics.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/team-results-report
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\team-results-report.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/teams
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\teams.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/templates
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\templates.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/training-plans
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\training-plans.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/training-results-report
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\training-results-report.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/upload-call-recording
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\upload-call-recording.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/upload-call-script
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\upload-call-script.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/upload-screen-shots
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\upload-screen-shots.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/use-cases
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\use-cases.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/user-management
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\user-management.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/user-report
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\user-report.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/user-results-report
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\user-results-report.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/users
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\users.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/users-and-teams
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\users-and-teams.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/visual-sym-creation
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\visual-sym-creation.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/knowledge/voices
+File Name: C:\Downloaded Web Sites\help.symtrain.com\knowledge\voices.html
+Content Type: text/html
+
+Uri: https://help.symtrain.com/_hcms/googlefonts/Open_Sans/700.woff
+File Name: C:\Downloaded Web Sites\help.symtrain.com\_hcms\googlefonts\Open_Sans\700.woff
+Content Type: font/woff
+
+Uri: https://help.symtrain.com/_hcms/googlefonts/Open_Sans/700.woff2
+File Name: C:\Downloaded Web Sites\help.symtrain.com\_hcms\googlefonts\Open_Sans\700.woff2
+Content Type: font/woff2
+
+Uri: https://help.symtrain.com/_hcms/googlefonts/Open_Sans/regular.woff
+File Name: C:\Downloaded Web Sites\help.symtrain.com\_hcms\googlefonts\Open_Sans\regular.woff
+Content Type: font/woff
+
+Uri: https://help.symtrain.com/_hcms/googlefonts/Open_Sans/regular.woff2
+File Name: C:\Downloaded Web Sites\help.symtrain.com\_hcms\googlefonts\Open_Sans\regular.woff2
+Content Type: font/woff2
+
+Uri: https://js.hubspotfeedback.com/feedbackknowledge.css
+File Name: C:\Downloaded Web Sites\help.symtrain.com\feedbackknowledge.css
+Content Type: text/css
+
+Uri: https://js.hubspotfeedback.com/feedbackknowledge.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\feedbackknowledge.js
+Content Type: application/javascript
+
+Uri: https://js.hubspotfeedback.com/relatedarticles.css
+File Name: C:\Downloaded Web Sites\help.symtrain.com\relatedarticles.css
+Content Type: text/css
+
+Uri: https://js.hubspotfeedback.com/relatedarticles.js
+File Name: C:\Downloaded Web Sites\help.symtrain.com\relatedarticles.js
+Content Type: application/javascript
+
+Uri: https://static.hsstatic.net/TemplateAssets/static-1.329/img/hs_default_template_images/modules/Follow+Me+-+Email/linkedin_circle_color.png
+File Name: C:\Downloaded Web Sites\help.symtrain.com\TemplateAssets\static-1.329\img\hs_default_template_images\modules\Follow Me - Email\linkedin_circle_color.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-GEL78ZCS9N
+File Name: C:\Downloaded Web Sites\help.symtrain.com\gtag\js
+Content Type: application/javascript
+
